@@ -1,5 +1,3 @@
-package Devops.aplicacaoClieneJava;
-
 import java.util.ArrayList;
 
 public class CadastroCliente {
